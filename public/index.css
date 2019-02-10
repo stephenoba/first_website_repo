@@ -7,7 +7,7 @@ body {
   float: center;
 }
 
-.container {
+#container {
   display: grid;
   position: relative;
   margin: 100px auto;
