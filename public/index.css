@@ -4,7 +4,7 @@ body {
   font-family: Arial;
   background-color: teal;
   color: #ffffff;
-  width: 1000px;
+  align: 20px auto;
   float: center;
 }
 
