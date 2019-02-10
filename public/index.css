@@ -4,14 +4,13 @@ body {
   font-family: Arial;
   background-color: teal;
   color: #ffffff;
-  align: 20px auto;
   float: center;
 }
 
 .container {
   display: grid;
   position: relative;
-  margin: auto;
+  margin: 100px auto;
   /*grid-template-areas: "header header header header" "nav nav nav nav" "one two sidebar sidebar"
   "three four sidebar sidebar" "five six sidebar sidebar" "footer footer footer footer";*/
   grid-template: 50px 100px 700px 700px 50px / 25% 25% 25% 20% 20%;
